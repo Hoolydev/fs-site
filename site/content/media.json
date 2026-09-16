@@ -1,0 +1,80 @@
+[
+  {
+    "outlet": "Valor Econômico",
+    "brand": "valor",
+    "date": "09 JUN 2026",
+    "topic": "Compensação tributária",
+    "title": "Compensação com créditos de terceiros reduz em até 35% débitos federais de empresas",
+    "url": "https://valor.globo.com/patrocinado/pulse-brand/noticia/2026/06/09/compensacao-com-creditos-de-terceiros-reduz-em-ate-35-debitos-federais-de-empresas-1.ghtml",
+    "branded": true,
+    "image": "/assets/fernando-diagnostico-recorte.png",
+    "imageAlt": "Fernándo Silva, sócio-proprietário da FS Soluções Tributárias",
+    "imagePosition": "center 8%",
+    "imageSource": "/assets/fernando-diagnostico-recorte.png"
+  },
+  {
+    "outlet": "O Globo",
+    "brand": "globo",
+    "date": "02 JUN 2026",
+    "topic": "Gestão de passivos",
+    "title": "Recebeu um auto de infração da Receita? O que fazer nas primeiras 72 horas",
+    "url": "https://oglobo.globo.com/patrocinado/pulse-brand/noticia/2026/06/02/recebeu-um-auto-de-infracao-da-receita-o-que-fazer-nas-primeiras-72-horas-1.ghtml",
+    "branded": true,
+    "image": "/assets/midia-globo-autuacao.jpg",
+    "imageAlt": "Fernándo Silva, sócio-proprietário da FS Soluções Tributárias",
+    "imagePosition": "center 55%",
+    "imageSource": "https://s2-oglobo.glbimg.com/RrrnFu0TireUs-tbdWQE8eAQ9oQ=/0x0:1114x914/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2026/B/l/sNoGlVSAGtBL5Lqq0BrQ/publicador-api-oglobo-pulse-brand-100-db0bc01f-ac32-4124-86e5-6473c1b3a4d0.png-20260602172322"
+  },
+  {
+    "outlet": "Valor Econômico",
+    "brand": "valor",
+    "date": "26 MAI 2026",
+    "topic": "Recuperação de créditos",
+    "title": "Sete sinais práticos de que a empresa pode ter crédito tributário a recuperar",
+    "url": "https://valor.globo.com/patrocinado/pulse-brand/noticia/2026/05/26/sete-sinais-praticos-de-que-a-empresa-pode-ter-credito-tributario-a-recuperar-1.ghtml",
+    "branded": true,
+    "image": "/assets/midia-valor-creditos.jpg",
+    "imageAlt": "Fernándo Silva, sócio da FS Soluções Tributárias",
+    "imagePosition": "center 20%",
+    "imageSource": "https://s2-valor.glbimg.com/IENhZWh4j8W8mlQSgK4Z5Qp6HEQ=/0x0:1179x1153/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/7/Y/yDwoMMQBiBaWP8WBP7WQ/publicador-api-valor-pulse-brand-100-5c086005-55d6-4f73-8857-39e710d7f5e4.jpg-20260526172231"
+  },
+  {
+    "outlet": "Pequenas Empresas & Grandes Negócios",
+    "brand": "pegn",
+    "date": "MAI 2026",
+    "topic": "Recuperação de créditos",
+    "title": "Tese do século: sua PME pode ter crédito a recuperar e não sabe",
+    "url": "https://revistapegn.globo.com/conteudo-de-marca/pulse-brand/noticia/2026/05/tese-do-seculo-sua-pme-pode-ter-credito-a-recuperar-e-nao-sabe-1.ghtml",
+    "branded": true,
+    "image": "/assets/midia-pegn.jpg",
+    "imageAlt": "Fernándo Silva Especialista Tributário",
+    "imagePosition": "center 20%",
+    "imageSource": "https://s2-pegn.glbimg.com/cY5TKl7qff5BAJjuoNmgMzJKJjw=/0x0:1179x1153/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_ba41d7b1ff5f48b28d3c5f84f30a06af/internal_photos/bs/2026/0/l/2E7UKLRlAr80DQB7dvhQ/publicador-api-pegn-pulse-brand-100-a6846530-46c9-4643-be9a-56525966cdb5.jpg-20260519171613"
+  },
+  {
+    "outlet": "Correio de Lisboa",
+    "brand": "correio",
+    "date": "",
+    "topic": "Estratégia tributária",
+    "title": "Os 5 sinais de que o contábil precisa chamar um tributarista",
+    "url": "https://correiodelisboa.com/os-5-sinais-de-que-o-contabil-precisa-chamar-um-tributarista/",
+    "branded": false,
+    "image": "/assets/midia-correio.jpg",
+    "imageAlt": "Fernándo Silva, sócio-proprietário da FS Soluções Tributárias e Mestrando em Direito Tributário",
+    "imagePosition": "center 48%",
+    "imageSource": "https://correiodelisboa.com/wp-content/uploads/2026/06/03eda855-ad66-42f9-9cce-5be65b8b4bdc.jpeg"
+  },
+  {
+    "outlet": "Invest Money",
+    "brand": "invest",
+    "date": "",
+    "topic": "Estratégia tributária",
+    "title": "Os 5 sinais de que o contábil precisa chamar um tributarista",
+    "url": "https://investmoneybr.com/os-5-sinais-de-que-o-contabil-precisa-chamar-um-tributarista/",
+    "branded": false,
+    "image": "/assets/midia-invest.jpg",
+    "imageAlt": "Fernándo Silva, sócio-proprietário da FS Soluções Tributárias e Mestrando em Direito Tributário",
+    "imagePosition": "center 48%",
+    "imageSource": "https://investmoneybr.com/wp-content/uploads/2026/06/03eda855-ad66-42f9-9cce-5be65b8b4bdc.jpeg"
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "slug": "parcelamento-receita-federal-como-planejar",
+  "title": "Parcelamento na Receita Federal: como planejar a regularização",
+  "category": "Regularização fiscal",
+  "excerpt": "Confira onde está o débito, compare as condições e avalie o compromisso mensal antes de aderir.",
+  "image": "/assets/artigo-regularizacao.jpg",
+  "imageAlt": "Agenda e documentos organizados para o planejamento fiscal — imagem ilustrativa",
+  "imagePosition": "center",
+  "readTime": "2 min",
+  "published": true,
+  "date": "2026-09-15",
+  "sections": [
+    {
+      "heading": "Primeiro, localize a dívida",
+      "paragraphs": [
+        "Antes de procurar uma opção de pagamento, identifique o tributo, o período, o valor atualizado e o órgão responsável pela cobrança. Um débito ainda administrado pela Receita Federal segue um caminho diferente daquele já inscrito em Dívida Ativa da União, tratado perante a PGFN.",
+        "Organize os relatórios de situação fiscal com o apoio da contabilidade. Separe débitos discutidos, pagamentos que precisam de conciliação e valores reconhecidos pela empresa. Uma pendência no relatório pode exigir esclarecimento antes de uma decisão de parcelar."
+      ],
+      "sources": []
+    },
+    {
+      "heading": "Confira a modalidade aplicável",
+      "paragraphs": [
+        "A Receita informa que o parcelamento simplificado de débitos federais ainda não inscritos em dívida ativa pode chegar a 60 prestações, com parcela mínima de R$ 500 para pessoa jurídica. Esses parâmetros não devem ser aplicados indistintamente: Simples Nacional, MEI e outras situações possuem regras próprias.",
+        "Confirme as condições no serviço oficial correspondente ao débito. A disponibilidade de uma opção no sistema e os termos apresentados na simulação devem ser conferidos antes de finalizar o pedido."
+      ],
+      "sources": [
+        {
+          "title": "Receita Federal — Parcelamento simplificado",
+          "url": "https://www.gov.br/receitafederal/pt-br/assuntos/orientacao-tributaria/pagamentos-e-parcelamentos/parcelamentos/parcelamento-nao-previdenciario-acesso-via-portal-e-cac"
+        },
+        {
+          "title": "Receita Federal — Modalidades de parcelamento",
+          "url": "https://www.gov.br/receitafederal/pt-br/assuntos/orientacao-tributaria/pagamentos-e-parcelamentos/Parcelamentos"
+        }
+      ]
+    },
+    {
+      "heading": "Simule o custo junto com os tributos correntes",
+      "paragraphs": [
+        "O orçamento precisa comportar as parcelas antigas e os tributos gerados pela operação atual. Inclua os acréscimos aplicáveis, a entrada eventualmente exigida e os demais compromissos da empresa. Uma simulação baseada apenas no valor nominal da dívida pode subestimar a saída de caixa.",
+        "Teste a proposta em meses de receita mais baixa. Se o acordo depende de um crescimento que ainda não ocorreu, reavalie premissas e alternativas. O objetivo é construir uma regularização que a empresa consiga manter."
+      ],
+      "sources": []
+    },
+    {
+      "heading": "Leia os efeitos e acompanhe o acordo",
+      "paragraphs": [
+        "Antes de aderir, avalie os efeitos sobre discussões administrativas ou judiciais, garantias e outras condições previstas na modalidade. Débitos contestados merecem uma decisão conjunta da gestão, da contabilidade e do responsável jurídico.",
+        "Após a formalização, controle a emissão e o pagamento das guias, confira a situação do pedido e acompanhe eventuais mensagens do órgão. Defina quem fará essa rotina. A assessoria tributária da FS pode apoiar o diagnóstico e a comparação dos caminhos de regularização, conectando o passivo fiscal à capacidade financeira da empresa."
+      ],
+      "sources": []
+    }
+  ]
+}

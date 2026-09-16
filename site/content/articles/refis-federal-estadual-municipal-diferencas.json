@@ -1,0 +1,55 @@
+{
+  "slug": "refis-federal-estadual-municipal-diferencas",
+  "title": "REFIS federal, estadual e municipal: por onde começar",
+  "category": "Regularização fiscal",
+  "excerpt": "A origem do tributo e o estágio da cobrança determinam onde consultar programas e condições de pagamento.",
+  "image": "/assets/artigo-auditoria.jpg",
+  "imageAlt": "Planilhas, calculadora e documentos para análise tributária — imagem ilustrativa",
+  "imagePosition": "center",
+  "readTime": "2 min",
+  "published": true,
+  "date": "2026-09-15",
+  "sections": [
+    {
+      "heading": "Separe o passivo por ente responsável",
+      "paragraphs": [
+        "Uma empresa pode reunir pendências federais, estaduais e municipais ao mesmo tempo. Embora todas afetem o caixa, elas não formam uma dívida única que possa ser negociada em qualquer portal. Cada grupo precisa ser identificado antes da busca por um programa de regularização.",
+        "Crie uma relação com tributo, competência, valor, órgão responsável e estágio da cobrança. Acrescente a existência de processo administrativo, ação judicial ou garantia. Esse mapa organiza o trabalho e evita deixar débitos fora do planejamento."
+      ],
+      "sources": []
+    },
+    {
+      "heading": "Na esfera federal, observe Receita e PGFN",
+      "paragraphs": [
+        "Para débitos federais, verifique se a obrigação ainda está sob administração da Receita ou se já foi inscrita em dívida ativa. Consulte as modalidades de parcelamento da Receita e, quando pertinente, as propostas divulgadas pela PGFN. O enquadramento deve ser confirmado para cada situação.",
+        "Não confunda o nome informal REFIS com uma modalidade específica. O termo pode ser usado para se referir a iniciativas diferentes, enquanto os efeitos da adesão dependem do instrumento legal concreto."
+      ],
+      "sources": [
+        {
+          "title": "Receita Federal — Modalidades de parcelamento",
+          "url": "https://www.gov.br/receitafederal/pt-br/assuntos/orientacao-tributaria/pagamentos-e-parcelamentos/Parcelamentos"
+        },
+        {
+          "title": "PGFN — Editais de transação por adesão",
+          "url": "https://www.gov.br/pgfn/pt-br/servicos/editais-de-notificacao/acordo-de-transacao-por-adesao-1"
+        }
+      ]
+    },
+    {
+      "heading": "Estados e municípios exigem uma consulta própria",
+      "paragraphs": [
+        "Se o passivo envolver tributos estaduais ou municipais, identifique os canais oficiais da respectiva Fazenda ou Procuradoria. Uma condição divulgada por um estado ou município não se aplica automaticamente a outro. Também não basta encontrar uma notícia antiga: é necessário confirmar se o prazo ainda permite adesão.",
+        "Para uma empresa com estabelecimentos em mais de uma localidade, organize o levantamento por inscrição e jurisdição. Dessa forma, cada responsável consegue conferir a documentação pertinente e informar à gestão quais medidas dependem de providências locais."
+      ],
+      "sources": []
+    },
+    {
+      "heading": "Compare os acordos dentro de um orçamento único",
+      "paragraphs": [
+        "Mesmo quando as negociações são feitas em órgãos diferentes, os pagamentos saem do mesmo planejamento financeiro. Some entradas, parcelas e tributos correntes para avaliar o comprometimento total. A aprovação isolada de vários acordos pode criar uma obrigação mensal superior à capacidade da operação.",
+        "Defina uma ordem de análise com base nos documentos, nos prazos e nos impactos de cada pendência. A assessoria tributária contribui para integrar essas decisões, sem presumir que o programa com maior desconto anunciado será necessariamente o mais adequado à empresa."
+      ],
+      "sources": []
+    }
+  ]
+}

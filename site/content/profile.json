@@ -1,0 +1,31 @@
+{
+  "name": "Fernándo Silva",
+  "role": "Especialista em Direito Tributário · Sócio-proprietário",
+  "paragraphs": [
+    "A FS Soluções Tributárias atua em assessoria tributária com sede em Goiânia e atendimento em todo o Brasil. Seu trabalho conecta conhecimento jurídico, análise técnica e visão empresarial para construir estratégias alinhadas à realidade de cada negócio.",
+    "À frente da FS, Fernándo Silva dedica sua atuação e sua produção bibliográfica à compensação tributária federal, ao controle de legalidade e à utilização de créditos judiciais e de terceiros. Sua pesquisa também abrange a recuperação estratégica de créditos e os impactos da Reforma Tributária.",
+    "Autor de cinco obras, reúne fundamentos constitucionais, legislação, análise da atuação administrativa e aplicação prática. Essa base orienta um atendimento próximo, voltado a compreender cada empresa e organizar seus próximos passos com clareza."
+  ],
+  "education": [
+    {
+      "status": "Doutorando",
+      "title": "Universitat Oberta de Catalunya",
+      "detail": "UOC"
+    },
+    {
+      "status": "Mestrando",
+      "title": "Direito Econômico e Desenvolvimento",
+      "detail": "IDP"
+    },
+    {
+      "status": "Pós-graduando",
+      "title": "Reforma Tributária",
+      "detail": ""
+    },
+    {
+      "status": "Pós-graduando",
+      "title": "Direito Público",
+      "detail": "Constitucional, Administrativo e Tributário"
+    }
+  ]
+}

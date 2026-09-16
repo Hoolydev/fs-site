@@ -1,0 +1,51 @@
+{
+  "slug": "dividas-bancarias-empresariais-como-organizar-a-renegociacao",
+  "title": "Dívidas bancárias empresariais: como organizar a renegociação",
+  "category": "Estratégia empresarial",
+  "excerpt": "Organize contratos, fluxo de caixa e prioridades antes de assumir um novo acordo com o banco.",
+  "image": "/assets/artigo-financeiro.jpg",
+  "imageAlt": "Contrato e documentos financeiros sobre uma mesa de reunião — imagem ilustrativa",
+  "imagePosition": "center",
+  "readTime": "2 min",
+  "published": true,
+  "date": "2026-09-15",
+  "sections": [
+    {
+      "heading": "Quando a parcela deixa de caber no caixa",
+      "paragraphs": [
+        "O atraso de uma parcela costuma ser o sinal visível de um problema maior: o prazo das dívidas deixou de acompanhar a geração de caixa. Antes de buscar outro empréstimo, a empresa precisa entender se enfrenta uma queda temporária de receita ou um desequilíbrio recorrente na operação.",
+        "Comece por uma projeção semanal de recebimentos e pagamentos. Separe despesas essenciais à continuidade do negócio, compromissos já vencidos e obrigações que vencem nos próximos meses. Trabalhar apenas com o saldo bancário de hoje pode produzir uma proposta que se torna inviável rapidamente."
+      ],
+      "sources": []
+    },
+    {
+      "heading": "Monte um mapa dos contratos",
+      "paragraphs": [
+        "Reúna contratos e aditivos, extratos, demonstrativos de evolução do saldo, garantias e comunicações recebidas. Registre cada credor, o custo da operação, as datas de vencimento e a existência de avalistas. Essa organização permite enxergar compromissos que estavam distribuídos entre setores.",
+        "O relatório de empréstimos e financiamentos do Banco Central pode complementar o levantamento, reunindo informações de operações de crédito reportadas pelas instituições. Confira os dados com os documentos do banco: o relatório não substitui o contrato nem uma atualização do saldo para negociação."
+      ],
+      "sources": [
+        {
+          "title": "Banco Central — Relatório de Empréstimos e Financiamentos",
+          "url": "https://www.bcb.gov.br/meubc/relatorioemprestimofinanciamento"
+        }
+      ]
+    },
+    {
+      "heading": "Compare o acordo inteiro",
+      "paragraphs": [
+        "Uma prestação menor pode aliviar o mês e, ao mesmo tempo, aumentar o custo total. Compare entrada, quantidade de parcelas, encargos, garantias exigidas e consequências de um novo atraso. Peça a proposta por escrito e teste seu impacto em um cenário de receita conservador.",
+        "Considere também como o acordo afeta fornecedores, folha e tributos. Concentrar toda a capacidade financeira em um único credor pode apenas transferir a dificuldade para outra parte da empresa."
+      ],
+      "sources": []
+    },
+    {
+      "heading": "Alinhe a análise financeira e jurídica",
+      "paragraphs": [
+        "Divergências no saldo ou nas cobranças precisam ser demonstradas com documentos e cálculos. Uma análise jurídica específica ajuda a identificar o que pode ser questionado e quais obrigações serão assumidas em uma renegociação. A dificuldade para pagar, isoladamente, não prova irregularidade no contrato.",
+        "Na frente tributária, a FS ajuda a organizar passivos fiscais e a avaliar oportunidades de créditos com fundamento e documentação. Esse diagnóstico pode integrar o planejamento financeiro, sem tratar uma recuperação ainda não confirmada como dinheiro disponível."
+      ],
+      "sources": []
+    }
+  ]
+}

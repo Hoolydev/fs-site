@@ -1,0 +1,7 @@
+[
+  {"id":"valor","name":"Valor Econômico","logo":"/assets/logo-valor.svg","source":"https://valor.globo.com/"},
+  {"id":"globo","name":"O Globo","logo":"/assets/logo-globo.svg","source":"https://oglobo.globo.com/"},
+  {"id":"pegn","name":"Pequenas Empresas & Grandes Negócios","logo":"/assets/logo-pegn.svg","source":"https://revistapegn.globo.com/"},
+  {"id":"correio","name":"Correio de Lisboa","logo":"/assets/logo-correio.png","source":"https://correiodelisboa.com/"},
+  {"id":"invest","name":"Invest Money","logo":"/assets/logo-invest.png","source":"https://investmoneybr.com/"}
+]

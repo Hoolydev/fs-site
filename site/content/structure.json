@@ -1,0 +1,44 @@
+[
+  {
+    "id": "reunioes",
+    "title": "Sala de reuniões",
+    "alt": "Sala de reuniões da FS com mesa ampla, cadeiras e escritório ao fundo",
+    "source": "IMG_2813.HEIC",
+    "image": "/assets/estrutura-reunioes.jpg"
+  },
+  {
+    "id": "recepcao",
+    "title": "Recepção",
+    "alt": "Recepção da FS com poltronas, sofá e painel de madeira",
+    "source": "IMG_2819.HEIC",
+    "image": "/assets/estrutura-recepcao.jpg"
+  },
+  {
+    "id": "escritorio-igor",
+    "title": "Escritórios",
+    "alt": "Escritórios da FS Soluções Tributárias",
+    "source": "Escritorio Igor.HEIC",
+    "image": "/assets/estrutura-escritorio-igor.jpg"
+  },
+  {
+    "id": "escritorio-jean",
+    "title": "Escritórios",
+    "alt": "Escritórios da FS Soluções Tributárias",
+    "source": "Escritorio Jean.HEIC",
+    "image": "/assets/estrutura-escritorio-jean.jpg"
+  },
+  {
+    "id": "fachada",
+    "title": "Nossa sede",
+    "alt": "Fachada da sede da FS Soluções Tributárias com jardim e identificação da empresa",
+    "source": "IMG_2805.heic",
+    "image": "/assets/estrutura-fachada.jpg"
+  },
+  {
+    "id": "cafe",
+    "title": "Espaço do café",
+    "alt": "Espaço do café da FS com bancada, xícaras e painel de madeira iluminado",
+    "source": "IMG_2786.HEIC",
+    "image": "/assets/estrutura-cafe.jpg"
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "slug": "multas-fiscais-como-identificar-e-organizar-a-resposta",
+  "title": "Multas fiscais: como identificar a cobrança e organizar a resposta",
+  "category": "Gestão tributária",
+  "excerpt": "Atraso no pagamento, falhas em declarações e autuações exigem análises diferentes. Saiba por onde começar.",
+  "image": "/assets/artigo-auditoria.jpg",
+  "imageAlt": "Planilhas, calculadora e documentos para análise tributária — imagem ilustrativa",
+  "imagePosition": "center",
+  "readTime": "2 min",
+  "published": true,
+  "date": "2026-09-15",
+  "sections": [
+    {
+      "heading": "Descubra o que originou a multa",
+      "paragraphs": [
+        "Receber uma cobrança exige atenção ao documento que a formaliza. Identifique o órgão, o tributo ou a obrigação envolvida, o período e a conduta apontada. Multas relacionadas ao atraso de um pagamento não devem ser tratadas como se fossem idênticas às penalidades por falhas declaratórias ou por infrações apuradas em fiscalização.",
+        "Separe o valor principal, os juros e a penalidade. Essa decomposição permite conferir cálculos e entender quais parcelas do total precisam de esclarecimento. Registre também a data em que a empresa tomou ciência da comunicação."
+      ],
+      "sources": []
+    },
+    {
+      "heading": "Confira o cálculo no contexto correto",
+      "paragraphs": [
+        "Para os tributos federais abrangidos pela orientação da Receita sobre multa de mora, o cálculo utiliza 0,33% por dia de atraso, limitado a 20%. Esse parâmetro se refere àquela multa: não é um limite geral para toda penalidade fiscal.",
+        "A conferência deve considerar a regra do tributo e o documento de cobrança. Se a questão envolver entrega de declaração ou autuação, identifique a previsão específica antes de fazer cálculos ou estimar reduções."
+      ],
+      "sources": [
+        {
+          "title": "Receita Federal — Cálculo da multa de mora",
+          "url": "https://www.gov.br/receitafederal/pt-br/assuntos/orientacao-tributaria/pagamentos-e-parcelamentos/pagamento-em-atraso/como-calcular-multa-de-mora-acrescimos-legais"
+        }
+      ]
+    },
+    {
+      "heading": "Organize documentos e prazos",
+      "paragraphs": [
+        "Reúna a notificação, a memória de cálculo, os comprovantes de recolhimento e os arquivos transmitidos ao Fisco. Relacione os fatos em ordem cronológica. Uma resposta bem documentada precisa mostrar o que ocorreu e quais registros sustentam a posição da empresa.",
+        "Leia o prazo e o procedimento indicados na comunicação oficial. Encaminhe o material à contabilidade e ao responsável jurídico para avaliar pagamento, correção de informações ou defesa, conforme o caso. Não adote um prazo genérico encontrado em outro tipo de processo."
+      ],
+      "sources": []
+    },
+    {
+      "heading": "Corrija também a causa do problema",
+      "paragraphs": [
+        "Depois de definir a resposta, examine a rotina que levou à ocorrência. Pode ser necessário ajustar o calendário fiscal, a revisão dos arquivos ou a conferência de guias. A medida útil depende da causa identificada, e deve ter um responsável e uma forma de acompanhamento.",
+        "A FS apoia a leitura tributária das pendências e o planejamento das providências. O trabalho combina análise da cobrança e organização da rotina, para que a empresa tome uma decisão fundamentada e reduza a repetição de falhas evitáveis."
+      ],
+      "sources": []
+    }
+  ]
+}

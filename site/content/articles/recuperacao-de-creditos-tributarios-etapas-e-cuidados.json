@@ -1,0 +1,55 @@
+{
+  "slug": "recuperacao-de-creditos-tributarios-etapas-e-cuidados",
+  "title": "Recuperação de créditos tributários: da identificação à utilização",
+  "category": "Gestão tributária",
+  "excerpt": "Como organizar documentos, confirmar o direito ao crédito e escolher o procedimento adequado para a empresa.",
+  "image": "/assets/artigo-auditoria.jpg",
+  "imageAlt": "Planilhas, calculadora e documentos para análise tributária — imagem ilustrativa",
+  "imagePosition": "center",
+  "readTime": "2 min",
+  "published": true,
+  "date": "2026-09-15",
+  "sections": [
+    {
+      "heading": "O crédito precisa ter origem comprovada",
+      "paragraphs": [
+        "Uma revisão tributária pode identificar pagamentos indevidos ou superiores ao devido e outras hipóteses de crédito previstas na legislação. O ponto central é demonstrar por que determinado valor pertence à empresa, a que período se refere e quais documentos sustentam a apuração.",
+        "O diagnóstico começa pelo regime tributário, pelas atividades efetivamente exercidas e pela forma como as operações foram registradas. Uma oportunidade identificada em outra empresa não se transfere automaticamente para uma operação diferente."
+      ],
+      "sources": []
+    },
+    {
+      "heading": "Cruze documentos e registros",
+      "paragraphs": [
+        "A equipe deve relacionar documentos fiscais, declarações, escrituração e comprovantes de recolhimento. Diferenças entre essas bases precisam ser explicadas antes de qualquer pedido. Uma planilha com o valor estimado é útil, mas não substitui a documentação que permite reconstruir o cálculo.",
+        "Considere uma empresa que detectou dois pagamentos para a mesma obrigação. O trabalho envolve localizar os comprovantes, conferir a vinculação dos recolhimentos e verificar se o valor já foi utilizado ou devolvido. Esse encadeamento reduz o risco de solicitar um crédito inexistente ou em duplicidade."
+      ],
+      "sources": []
+    },
+    {
+      "heading": "Escolha o caminho compatível com o crédito",
+      "paragraphs": [
+        "No âmbito federal, o PER/DCOMP Web atende hipóteses de restituição e compensação, incluindo pagamentos indevidos ou a maior em Darf. O procedimento depende da natureza do crédito e das regras aplicáveis; nem todo valor pode ser tratado pelo mesmo fluxo.",
+        "Restituir e compensar são caminhos diferentes. A compensação utiliza um crédito admitido para quitar débitos nas condições legais. Antes da transmissão, confira a possibilidade de uso, os prazos e eventuais exigências específicas. Créditos judiciais também demandam a análise de seus requisitos próprios."
+      ],
+      "sources": [
+        {
+          "title": "Receita Federal — PER/DCOMP Web",
+          "url": "https://www.gov.br/receitafederal/pt-br/assuntos/orientacao-tributaria/restituicao-ressarcimento-reembolso-e-compensacao/perdcomp/perdcomp-web/perdcomp-web"
+        },
+        {
+          "title": "Receita Federal — Compensar tributos federais",
+          "url": "https://www.gov.br/pt-br/servicos/compensar-tributos-federais"
+        }
+      ]
+    },
+    {
+      "heading": "Acompanhe o resultado depois do protocolo",
+      "paragraphs": [
+        "Mantenha uma memória de cálculo organizada, os documentos de suporte e um controle dos valores pedidos ou utilizados. Acompanhe comunicações e decisões administrativas para responder às exigências dentro do prazo aplicável.",
+        "Na FS, a recuperação de créditos integra análise tributária e diálogo com a contabilidade. O objetivo é transformar uma hipótese em uma conclusão documentada. A estimativa inicial serve ao diagnóstico; a utilização efetiva depende da confirmação do direito e do atendimento às regras de cada caso."
+      ],
+      "sources": []
+    }
+  ]
+}

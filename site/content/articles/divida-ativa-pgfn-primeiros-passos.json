@@ -1,0 +1,56 @@
+{
+  "slug": "divida-ativa-pgfn-primeiros-passos",
+  "title": "Dívida ativa na PGFN: os primeiros passos para regularizar",
+  "category": "Regularização fiscal",
+  "excerpt": "Entenda o papel do REGULARIZE e os cuidados para analisar uma negociação de débitos inscritos.",
+  "image": "/assets/artigo-regularizacao.jpg",
+  "imageAlt": "Agenda e documentos organizados para o planejamento fiscal — imagem ilustrativa",
+  "imagePosition": "center",
+  "readTime": "2 min",
+  "published": true,
+  "date": "2026-09-15",
+  "sections": [
+    {
+      "heading": "Entenda o estágio da cobrança",
+      "paragraphs": [
+        "Quando um débito federal é inscrito em Dívida Ativa da União, a regularização passa pela PGFN. Para a empresa, isso exige um levantamento que identifique as inscrições, os valores e a situação de cada cobrança. Reunir apenas o total devido deixa de fora informações importantes para escolher o próximo passo.",
+        "Verifique com a equipe responsável se há pagamentos não conciliados, discussões em andamento ou garantias vinculadas. Esse histórico ajuda a separar situações que pedem correção cadastral, análise jurídica ou avaliação de uma negociação."
+      ],
+      "sources": []
+    },
+    {
+      "heading": "Consulte as opções pelos canais oficiais",
+      "paragraphs": [
+        "O REGULARIZE é o portal de serviços da PGFN. A consulta aos editais oficiais permite identificar propostas de transação por adesão, seus critérios e períodos de disponibilidade. A existência de um edital não significa que todo débito da empresa esteja incluído.",
+        "Antes de montar a proposta, confira quais inscrições são elegíveis e as condições apresentadas. Guarde os documentos e a simulação utilizados na análise, de modo que a decisão possa ser revisada pela gestão."
+      ],
+      "sources": [
+        {
+          "title": "PGFN — Editais de transação por adesão",
+          "url": "https://www.gov.br/pgfn/pt-br/servicos/editais-de-notificacao/acordo-de-transacao-por-adesao-1"
+        }
+      ]
+    },
+    {
+      "heading": "Capacidade de pagamento não é apenas o saldo em conta",
+      "paragraphs": [
+        "A PGFN utiliza informações econômicas, patrimoniais e fiscais para estimar a capacidade de pagamento. Esse critério pode influenciar benefícios em determinadas negociações. Uma empresa com dificuldade de caixa precisa compreender a classificação atribuída e os dados considerados, sem presumir que terá descontos.",
+        "Se houver divergência relevante, o profissional responsável deve avaliar os procedimentos e requisitos de revisão previstos nas normas. O exame precisa se apoiar em documentos e em uma explicação consistente da situação econômica."
+      ],
+      "sources": [
+        {
+          "title": "PGFN — Capacidade de pagamento",
+          "url": "https://www.gov.br/pgfn/pt-br/servicos/perguntas-frequentes/sobre-a-capacidade-de-pagamento"
+        }
+      ]
+    },
+    {
+      "heading": "Escolha uma solução que possa ser cumprida",
+      "paragraphs": [
+        "Compare entrada, prazo, custo, obrigações do acordo e efeitos sobre litígios. A empresa também precisa manter espaço no orçamento para a operação corrente. Uma negociação que consome toda a disponibilidade pode gerar novas pendências poucos meses depois.",
+        "Depois da adesão, acompanhe o processamento, os pagamentos e as comunicações do portal. Centralize a responsabilidade por essa rotina. A FS atua na análise do passivo e no planejamento tributário da regularização, com atenção às condições concretas de cada empresa e da modalidade disponível."
+      ],
+      "sources": []
+    }
+  ]
+}

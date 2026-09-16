@@ -1,0 +1,30 @@
+[
+  {
+    "id": "auditoria",
+    "prompt": "Use case: photorealistic-natural. Create a premium editorial photograph for a Brazilian tax advisory blog article about tax credit auditing. Wide landscape 1536x1024. Close overhead view of a realistic dark navy desk with neat financial spreadsheets containing only tiny unreadable print, simple calculator, gold metal pen, dark blue folder, warm window light, authentic paper textures. Restrained navy, warm ivory and muted gold palette. No people, no logos, no legible text, no floating icons, no 3D illustration, no currency symbols. Realistic business magazine photography, thoughtful composition, all main objects within central crop-safe area.",
+    "source": "/Users/holydev/.codex/generated_images/01a0a5b6-8f5b-7382-a229-d2c6f08a4221/exec-fd57a165-87c1-481a-9ad2-0d9b25ca785d.png",
+    "asset": "public/assets/artigo-auditoria.jpg",
+    "tool": "image_gen (built-in)"
+  },
+  {
+    "id": "financeiro",
+    "prompt": "Use case: photorealistic-natural. Create a premium editorial photograph for a Brazilian business blog about business debt and bank contract negotiation. Wide landscape 1536x1024. Close oblique view across a walnut conference table: open paper contract with small unreadable print, a silver laptop edge with out-of-focus spreadsheet, navy leather notebook and a restrained gold pen. A pair of empty sophisticated office chairs softly blurred in background. Natural late afternoon daylight, navy and warm wood palette, credible documentary still life. No faces or people, no logos or readable text, no icons, no gavel, no banknotes. Central crop-safe composition.",
+    "source": "/Users/holydev/.codex/generated_images/01a0a5b6-8f5b-7382-a229-d2c6f08a4221/exec-919f11e1-68f4-49ee-9f55-ad7a71262584.png",
+    "asset": "public/assets/artigo-financeiro.jpg",
+    "tool": "image_gen (built-in)"
+  },
+  {
+    "id": "regularizacao",
+    "prompt": "Use case: photorealistic-natural. Create a premium editorial still-life photograph for a Brazilian tax advisory blog about fiscal debt regularization and installment planning. Wide landscape 1536x1024. A carefully organized desk with a blank monthly desk planner grid without readable numbers, several neatly stacked ivory document folders, a small calculator and a dark navy document tray, matte brass pen. Calm natural side lighting, deep navy background, warm ivory paper and subtle muted gold details. Real textures, high-end financial magazine photography, no logos, no legible words, no faces, no illustrations, no icons. Composition must crop beautifully to a wide blog card.",
+    "source": "/Users/holydev/.codex/generated_images/01a0a5b6-8f5b-7382-a229-d2c6f08a4221/exec-111f962e-5d47-4404-8f15-d377670c92a9.png",
+    "asset": "public/assets/artigo-regularizacao.jpg",
+    "tool": "image_gen (built-in)"
+  },
+  {
+    "id": "estrategia",
+    "prompt": "Use case: photorealistic-natural. Create a premium editorial photograph for a tax advisory business blog about cooperation between accounting and business strategy. Wide landscape 1536x1024. Overhead close-up of two business professionals' hands collaboratively reviewing financial charts on real paper at a navy-topped meeting desk. One hand naturally pointing to a bar chart, other rests holding a simple brass pen. Sleeves navy suit and white shirt, no faces. A closed blue notebook and laptop edge. Human hands anatomically accurate, natural window lighting, restrained navy and muted gold palette, credible documentary photography. No readable text, no brand logos, no floating graphics, no icons. Crop-safe central action.",
+    "source": "/Users/holydev/.codex/generated_images/01a0a5b6-8f5b-7382-a229-d2c6f08a4221/exec-8f996a13-c9cf-4895-8915-ecbccbd8ac42.png",
+    "asset": "public/assets/artigo-estrategia.jpg",
+    "tool": "image_gen (built-in)"
+  }
+]

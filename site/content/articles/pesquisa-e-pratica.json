@@ -1,0 +1,33 @@
+{
+  "slug": "pesquisa-e-pratica-no-direito-tributario",
+  "title": "Da pesquisa à prática: conhecimento que orienta a gestão de tributos.",
+  "category": "Conhecimento",
+  "excerpt": "Conheça a linha de estudo que conecta as cinco obras de Fernándo Silva à atuação da FS.",
+  "readTime": "2 min",
+  "published": true,
+  "sections": [
+    {
+      "heading": "Uma linha de estudo, diferentes perspectivas",
+      "paragraphs": [
+        "A produção bibliográfica de Fernándo Silva reúne cinco obras dedicadas aos desafios da tributação brasileira. O percurso começa nos fundamentos da compensação tributária e avança para o controle de legalidade, os créditos de terceiros, a recuperação de créditos e a Reforma Tributária."
+      ]
+    },
+    {
+      "heading": "Fundamentos que se conectam",
+      "paragraphs": [
+        "Constituição, legislação e atuação administrativa são examinadas em conjunto. Essa abordagem permite compreender tanto os fundamentos dos temas quanto as controvérsias que cercam sua aplicação.",
+        "Os livros também aproximam a análise jurídica de aspectos da auditoria fiscal, do planejamento e da gestão empresarial, formando um repertório voltado a profissionais e gestores."
+      ]
+    },
+    {
+      "heading": "Conheça as obras",
+      "paragraphs": [
+        "Na biblioteca da FS, você encontra a apresentação de cada título, seus temas centrais e o link para a edição disponível na Amazon. Uma oportunidade de conhecer mais de perto a pesquisa desenvolvida por Fernándo Silva."
+      ]
+    }
+  ],
+  "image": "/assets/obra-1.jpg",
+  "imageAlt": "Capa da obra Compensação Tributária, de Fernando Silva",
+  "imagePosition": "center",
+  "imageFit": "contain"
+}

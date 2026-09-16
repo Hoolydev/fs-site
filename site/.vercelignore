@@ -1,0 +1,8 @@
+.vercel
+.git
+node_modules
+README.md
+
+.env*
+
+.generated/
