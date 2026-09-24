@@ -95,3 +95,7 @@ em{font-style:normal;font-weight:500;font-size:1em;line-height:inherit}.hero h1 
 .footer-map-button{flex-shrink:0;font-size:1rem;min-height:52px;padding:16px 24px}
 @media(max-width:800px){.footer-location{padding-block:32px}.footer-location h2{max-width:none}.footer-location address{margin-top:16px}.footer-map{height:340px}}
 @media(max-width:480px){.footer-map-actions{flex-direction:column;align-items:stretch;padding:16px;gap:16px;text-align:center}.footer-map-button{justify-content:center;text-align:center;padding-inline:16px}}
+
+/* Identificação do veículo e resumo das publicações de mídia. */
+.media-outlet-logo{width:188px;height:40px;max-width:100%;object-fit:contain;object-position:left center}
+.media-excerpt{margin:16px 0 0;color:var(--muted);font-size:.9375rem;line-height:1.7}

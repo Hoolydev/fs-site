@@ -1,4 +1,5 @@
 [
+  {"id":"estadao","name":"Estadão","logo":"/assets/logo-estadao.svg","source":"https://especiais.estadao.com.br/estadao-parts/img/logo_estadao_branco.svg"},
   {"id":"valor","name":"Valor Econômico","logo":"/assets/logo-valor.svg","source":"https://valor.globo.com/"},
   {"id":"globo","name":"O Globo","logo":"/assets/logo-globo.svg","source":"https://oglobo.globo.com/"},
   {"id":"pegn","name":"Pequenas Empresas & Grandes Negócios","logo":"/assets/logo-pegn.svg","source":"https://revistapegn.globo.com/"},

@@ -1,5 +1,19 @@
 [
   {
+    "outlet": "Estadão",
+    "brand": "estadao",
+    "date": "23 SET 2026",
+    "topic": "Multas tributárias",
+    "title": "Multas tributárias: Fernándo Silva analisa novo teto de 75% no Estadão",
+    "excerpt": "Em publicação no canal PulseBrand do Estadão, o sócio-proprietário da FS Soluções Tributárias explica os limites das multas e os critérios para revisar autuações ainda em discussão. A análise destaca a importância de avaliar a natureza da penalidade e o estágio de cada processo.",
+    "url": "https://bluestudio.estadao.com.br/agencia-de-comunicacao/pulsebrand/nova-lei-limita-multa-tributaria-a-75-e-ja-reduz-autuacoes-que-ainda-estao-em-discussao/",
+    "branded": true,
+    "image": "/assets/midia-estadao-multa-tributaria.jpg",
+    "imageAlt": "Fernándo Silva no escritório da FS Soluções Tributárias, em foto publicada no Estadão",
+    "imagePosition": "center center",
+    "imageSource": "https://bluestudio.estadao.com.br/agencia-de-comunicacao/wp-content/uploads/2026/09/APB20260923154521005685-novaleilimitamul.jpg"
+  },
+  {
     "outlet": "Valor Econômico",
     "brand": "valor",
     "date": "09 JUN 2026",
